@@ -212,7 +212,7 @@ DIVIDE(
 ### Steps
 1. Clone this repository:
    bash:
-   "https://github.com/prathams0ni/Indian-Airlines-Analysis-Power-BI-Dashboard"
+   "https://github.com/prathams0ni/Indian_Airlines_Analysis_Power_BI_Dashboard"
 
 ## 🧾 Conclusion
 
